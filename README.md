@@ -36,3 +36,8 @@ I created this project to apply the Python concepts I learned and gain experienc
 - Expense search and filtering
 - Graphical user interface (GUI)
 - Spending charts and visualizations
+
+##
+
+- <img width="1477" height="996" alt="image" src="https://github.com/user-attachments/assets/d544faa9-c9aa-4f26-9d37-8ac8f65c573a" />
+
